@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MyCountry</string>
+    <string name="app_name_label">My Country</string>
+    <string name="country">Viet Nam</string>
+    <string name="made_by_txt">An application by Thi Lien KIM</string>
+    <string name="made_at_label">Made at</string>
+    <string name="description">The goal of this application is to present some informations about my home country. I hope you will like what you see and maybe come and visit ;-)</string>
+    <string name="capital_label">Capital:</string>
+    <string name="capital_value">capital</string>
+    <string name="area_label">Area:</string>
+    <string name="area_value">area</string>
+    <string name="population_label">Population:</string>
+    <string name="population_value">population</string>
+    <string name="currency_label">Currency:</string>
+    <string name="currency_value">VND</string>
+    <string name="cool_stuff_label">Cool stuff</string>
+    <string name="bad_stuff_label">Bad stuff</string>
 </resources>
